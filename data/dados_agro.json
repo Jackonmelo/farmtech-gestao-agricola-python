@@ -1,0 +1,51 @@
+[
+    {
+        "N": 1,
+        "P": 1,
+        "K": 1,
+        "ph": 7.5,
+        "umidade": 30.0
+    },
+    {
+        "N": 0,
+        "P": 0,
+        "K": 0,
+        "ph": 1.0,
+        "umidade": 10.0
+    },
+    {
+        "N": 1,
+        "P": 0,
+        "K": 1,
+        "ph": 6.5,
+        "umidade": 50.0
+    },
+    {
+        "cultura": "Cana-de-a\u00e7\u00facar",
+        "parametros": {
+            "ph_min": 5.5,
+            "ph_max": 6.5
+        },
+        "npk": [
+            1,
+            1,
+            1
+        ],
+        "ph": 10.0,
+        "umidade": 10.0
+    },
+    {
+        "cultura": "Milho",
+        "parametros": {
+            "ph_min": 5.5,
+            "ph_max": 7.0
+        },
+        "npk": [
+            3,
+            3,
+            3
+        ],
+        "ph": 10.0,
+        "umidade": 60.0
+    }
+]
